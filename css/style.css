@@ -133,7 +133,7 @@ html {
 
 /* Clients Section */
 #client-section {
-   position: relative;
+   position: flex;
 }
 
 #client-section::before {
@@ -236,3 +236,9 @@ footer {
 .center {
    text-align: center;
 }
+
+
+
+.form-group:nth-child(5   ){
+   text-align: center;
+}  
